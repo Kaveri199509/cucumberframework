@@ -1,0 +1,1485 @@
+[INFO ] 2023-06-28 10:59:20.414 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-28 11:00:20.222 [main] LogImplementation - Post response  status code= 200
+[INFO ] 2023-06-28 11:00:20.223 [main] LogImplementation - Post response= {"message":"successfuly sent!"}
+[INFO ] 2023-06-28 11:58:46.008 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-28 12:00:43.790 [main] LogImplementation - Post response  status code= 200
+[INFO ] 2023-06-28 12:00:43.790 [main] LogImplementation - Post response= {"message":"successfuly sent!"}
+[INFO ] 2023-06-28 13:24:25.779 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-28 13:26:32.795 [main] LogImplementation - Post response  status code= 200
+[INFO ] 2023-06-28 13:26:32.796 [main] LogImplementation - Post response= {"message":"successfuly sent!"}
+[INFO ] 2023-06-28 16:14:10.039 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-28 16:26:48.354 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-28 16:28:36.632 [main] LogImplementation - Post response  status code= 200
+[INFO ] 2023-06-28 16:28:36.633 [main] LogImplementation - Post response= {"message":"successfuly sent!"}
+[INFO ] 2023-06-30 11:22:42.406 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-30 11:24:44.162 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-30 11:26:23.131 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-30 16:32:31.563 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-30 16:33:02.507 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-06-30 18:00:54.036 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 10:26:12.138 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 10:29:06.071 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 12:28:09.048 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 12:34:31.778 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 14:50:26.182 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 14:58:21.355 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-03 14:59:57.635 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-03 15:06:10.586 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:06:24.000 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-03 15:06:39.768 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-03 15:07:01.603 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-03 15:07:05.611 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-03 15:07:17.082 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-03 15:07:21.170 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-03 15:07:52.658 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:10:36.546 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:15:22.123 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:22:50.113 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:30:32.598 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:31:44.847 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:32:53.897 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:38:34.686 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:41:31.208 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:48:27.972 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:51:05.808 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:53:08.854 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:55:52.360 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-03 15:58:00.946 [main] LogImplementation - Get response  status code = 200
+[ERROR] 2023-07-03 16:01:08.194 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.224 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.231 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.239 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.584 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.590 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.598 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:08.606 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:52.797 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:52.826 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:52.833 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:52.839 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:53.133 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:53.138 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:53.144 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:01:53.150 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:02:45.923 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:45.971 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.002 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.035 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.317 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.351 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.383 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:02:46.417 [main] LogImplementation - The path to the driver executable Unable to locate the chromedriver executable; for more information on how to install drivers, see https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+[ERROR] 2023-07-03 16:03:00.059 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.081 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.087 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.096 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.358 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.362 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.367 [main] LogImplementation - null
+[ERROR] 2023-07-03 16:03:00.372 [main] LogImplementation - null
+[INFO ] 2023-07-04 11:05:50.890 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-04 12:14:55.708 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-04 13:09:35.787 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-04 15:06:13.242 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-05 16:07:32.582 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-10 18:32:17.872 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 19:59:53.152 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 20:00:46.164 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-10 20:36:43.460 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 20:37:42.364 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-10 20:45:06.912 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 20:46:43.878 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-10 20:48:05.641 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 20:48:09.658 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 21:13:44.405 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 21:14:50.778 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-10 21:15:59.310 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 21:16:03.326 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 21:18:22.857 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 21:19:27.069 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 21:24:17.917 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 21:25:30.771 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-10 21:27:11.487 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 21:27:15.488 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-10 21:28:13.075 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-10 21:28:17.144 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-13 09:46:21.119 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-13 09:47:06.629 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-13 10:08:42.140 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 10:08:42.272 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 10:25:55.433 [main] LogImplementation - Get response  status code = 200
+[INFO ] 2023-07-13 10:28:28.317 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-13 11:33:43.970 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-13 22:33:29.656 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 22:36:11.060 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:11:52.866 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:14:46.954 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:14:47.054 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:18:43.941 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:18:44.038 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:21:15.295 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:21:15.389 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:28:11.032 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:28:11.687 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:28:59.910 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:29:00.780 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:34:44.990 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:34:45.649 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:36:12.166 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:36:13.009 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:42:02.463 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:42:04.000 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-13 23:43:18.363 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-13 23:43:19.200 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-14 00:11:24.620 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-14 00:11:24.702 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-14 10:06:54.767 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-14 10:14:44.103 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-14 12:39:16.284 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:24:11.103 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:24:11.679 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-17 17:25:25.511 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:32:36.959 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:36:25.450 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:38:39.986 [main] LogImplementation - get quote section clicked
+[ERROR] 2023-07-21 17:19:37.493 [main] LogImplementation - Could not start a new session. Response code 500. Message: unknown error: Chrome failed to start: exited normally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'REVDAU-LTP023', ip: '192.168.0.103'
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}}]}]
+[INFO ] 2023-07-21 17:27:16.444 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 18:10:51.213 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-21 20:41:36.478 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 20:43:42.224 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 00:59:30.076 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:08:18.022 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:09:29.753 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:21:08.960 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:21:47.547 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:29:01.568 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:29:49.135 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:34:55.600 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:35:47.572 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:40:02.826 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:40:45.587 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:42:23.973 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:43:11.603 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:48:07.087 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:48:47.495 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:54:10.242 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:54:53.494 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:00:22.560 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:01:07.705 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:05:42.157 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:06:23.057 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:23:45.458 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 10:24:27.580 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:56:31.335 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 11:01:32.901 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:11:08.535 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:19:19.108 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:22:10.591 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:10:01.898 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:01.977 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:02.065 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:04.131 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:06.203 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:08.290 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:10.412 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:28.690 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 12:10:45.251 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:45.689 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:45.751 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:47.835 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:49.905 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:51.976 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:54.059 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:56.120 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 12:30:28.836 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:30:40.519 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:36:41.951 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:36:56.376 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:40:44.654 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:41:11.164 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:41:33.234 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:41:37.317 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:41:53.181 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:41:57.211 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-24 12:43:23.364 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:43:38.007 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:44:22.891 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:44:27.007 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:44:43.679 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:44:47.707 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-24 12:46:13.089 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:46:27.258 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:46:46.423 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:46:50.639 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:47:06.348 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:47:10.410 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-17 17:24:11.103 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:24:11.679 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-17 17:25:25.511 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:32:36.959 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:36:25.450 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:38:39.986 [main] LogImplementation - get quote section clicked
+[ERROR] 2023-07-21 17:19:37.493 [main] LogImplementation - Could not start a new session. Response code 500. Message: unknown error: Chrome failed to start: exited normally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'REVDAU-LTP023', ip: '192.168.0.103'
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}}]}]
+[INFO ] 2023-07-21 17:27:16.444 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 18:10:51.213 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-21 20:41:36.478 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 20:43:42.224 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 00:59:30.076 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:08:18.022 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:09:29.753 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:21:08.960 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:21:47.547 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:29:01.568 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:29:49.135 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:34:55.600 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:35:47.572 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:40:02.826 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:40:45.587 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:42:23.973 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:43:11.603 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:48:07.087 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:48:47.495 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:54:10.242 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:54:53.494 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:00:22.560 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:01:07.705 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:05:42.157 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:06:23.057 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:23:45.458 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 10:24:27.580 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:56:31.335 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 11:01:32.901 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:11:08.535 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:19:19.108 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:22:10.591 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:10:01.898 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:01.977 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:02.065 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:04.131 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:06.203 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:08.290 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:10.412 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:28.690 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 12:10:45.251 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:45.689 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:45.751 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:47.835 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:49.905 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:51.976 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:54.059 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:56.120 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 12:56:51.428 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:57:16.304 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 12:57:36.442 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:57:40.532 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:57:52.932 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 12:57:56.969 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-17 17:24:11.103 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:24:11.679 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-17 17:25:25.511 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:32:36.959 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:36:25.450 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-17 17:38:39.986 [main] LogImplementation - get quote section clicked
+[ERROR] 2023-07-21 17:19:37.493 [main] LogImplementation - Could not start a new session. Response code 500. Message: unknown error: Chrome failed to start: exited normally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'REVDAU-LTP023', ip: '192.168.0.103'
+Build info: version: '4.9.1', revision: 'eb2032df7f'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --start-maximized], extensions: []}}]}]
+[INFO ] 2023-07-21 17:27:16.444 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 18:10:51.213 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-21 20:41:36.478 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-21 20:43:42.224 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 00:59:30.076 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:08:18.022 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:09:29.753 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:21:08.960 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:21:47.547 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:29:01.568 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:29:49.135 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:34:55.600 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:35:47.572 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:40:02.826 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:40:45.587 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:42:23.973 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:43:11.603 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:48:07.087 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:48:47.495 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 01:54:10.242 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 01:54:53.494 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:00:22.560 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:01:07.705 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-23 02:05:42.157 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-23 02:06:23.057 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:23:45.458 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 10:24:27.580 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 10:56:31.335 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 11:01:32.901 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:11:08.535 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:19:19.108 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 11:22:10.591 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 12:10:01.898 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:01.977 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:02.065 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:04.131 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:06.203 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:08.290 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:10.412 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:28.690 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 12:10:45.251 [main] LogImplementation - get quote section clicked
+[INFO ] 2023-07-24 12:10:45.689 [main] LogImplementation - About QuoteTitle text found : Estimate For Your Projects.
+[INFO ] 2023-07-24 12:10:45.751 [main] LogImplementation - Name entered in the name text box
+[INFO ] 2023-07-24 12:10:47.835 [main] LogImplementation - Email entered in the email text box
+[INFO ] 2023-07-24 12:10:49.905 [main] LogImplementation - Mobile_no entered in the mobile_no. text box
+[INFO ] 2023-07-24 12:10:51.976 [main] LogImplementation - Massage entered in the message text box
+[INFO ] 2023-07-24 12:10:54.059 [main] LogImplementation - Submit action perform on submit now...
+[INFO ] 2023-07-24 12:10:56.120 [main] LogImplementation - Success message is present : Your message has been sent successfully, we will get back to you shortly.
+[INFO ] 2023-07-24 13:03:42.028 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 13:03:55.854 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 13:04:11.324 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 13:04:15.415 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 13:04:29.248 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 13:04:33.290 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-24 13:07:52.033 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 13:08:04.695 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 13:08:22.068 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 13:08:26.146 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-07-24 13:08:41.242 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 13:08:45.311 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-24 14:07:34.834 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-07-24 14:12:40.446 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-07-24 14:12:44.519 [main] LogImplementation - About section title is present
+[INFO ] 2023-07-24 14:24:27.857 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-16 10:52:03.744 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-16 10:52:03.744 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-16 10:52:06.807 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-08-16 10:52:07.854 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-16 10:52:10.753 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-16 10:52:14.776 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-08-16 10:57:03.785 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-16 10:57:03.785 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-16 10:57:04.762 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-08-16 10:57:07.299 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-16 10:57:07.930 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-16 10:57:11.345 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-08-22 15:11:48.848 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:11:48.928 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:11:48.928 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:48.929 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:48.929 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:11:48.939 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:11:50.861 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:11:50.867 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:11:50.867 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:50.868 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:50.868 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:11:50.868 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:11:51.897 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:11:51.906 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:11:51.907 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:51.907 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:51.907 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:11:51.908 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:11:52.986 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:11:52.993 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:11:52.993 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:52.994 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:11:52.994 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:11:52.994 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:12:31.171 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:12:31.244 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:12:31.245 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:31.245 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:31.245 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:12:31.261 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:12:33.205 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:12:33.211 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:12:33.211 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:33.211 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:33.211 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:12:33.212 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:12:34.252 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:12:34.260 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:12:34.260 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:34.260 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:34.261 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:12:34.261 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:12:35.329 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:12:35.337 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:12:35.338 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:35.339 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:12:35.339 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:12:35.340 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:14:58.724 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:14:58.794 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:14:58.795 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:14:58.795 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:14:58.795 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:14:58.810 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:15:00.852 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:15:00.857 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:15:00.858 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:00.858 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:00.858 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:15:00.858 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:15:01.924 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:15:01.933 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:15:01.933 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:01.933 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:01.934 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:15:01.937 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:15:02.976 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:15:02.982 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:15:02.982 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:02.982 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:15:02.983 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:15:02.984 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:16:31.068 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:16:31.157 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:16:31.157 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:31.158 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:31.158 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:16:31.170 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:16:33.128 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:16:33.137 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:16:33.137 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:33.137 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:33.138 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:16:33.138 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:16:34.218 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:16:34.225 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:16:34.225 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:34.226 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:34.226 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:16:34.226 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:16:35.348 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:16:35.355 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:16:35.355 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:35.356 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:16:35.356 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:16:35.357 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:18:59.796 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:18:59.922 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:18:59.922 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:18:59.923 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:18:59.923 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:18:59.943 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:19:00.059 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:19:00.075 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:19:00.075 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.076 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.076 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:19:00.076 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:19:00.101 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:19:00.119 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:19:00.119 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.119 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.119 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:19:00.120 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:19:00.143 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:19:00.155 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:19:00.155 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.156 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:19:00.156 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:19:00.156 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:20:16.919 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:20:17.006 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:20:17.006 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:17.008 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:17.008 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:20:17.021 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:20:20.410 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:20:20.425 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:20:20.425 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:20.426 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:20.426 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:20:20.426 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:20:22.081 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:20:22.165 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:20:22.165 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:22.165 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:22.165 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:20:22.166 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:20:23.753 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:20:23.765 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:20:23.765 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:23.765 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:20:23.765 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:20:23.766 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:22:35.732 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:22:35.871 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:22:35.871 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:22:35.872 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:22:35.872 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:22:45.988 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:27:41.235 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:32:12.409 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:32:28.149 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:32:28.219 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:32:28.219 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:32:28.219 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:32:28.220 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:32:28.231 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:32:30.756 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@813a6511
+[INFO ] 2023-08-22 15:32:30.756 [main] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:33:04.547 [main] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-08-22 15:33:04.635 [main] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-08-22 15:33:04.646 [main] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-08-22 15:33:04.660 [main] LogImplementation - li.getText() = 
+[INFO ] 2023-08-22 15:33:04.672 [main] LogImplementation - li.getText() = HOME
+[INFO ] 2023-08-22 15:33:04.680 [main] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-08-22 15:33:04.688 [main] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-08-22 15:33:04.698 [main] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-08-22 15:33:04.698 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-22 15:33:05.428 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:33:05.445 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:33:05.445 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:05.445 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:05.445 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:33:05.446 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:33:06.381 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@813a6511
+[INFO ] 2023-08-22 15:33:06.381 [main] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:33:20.461 [main] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-08-22 15:33:25.151 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:33:25.169 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:33:25.169 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:25.170 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:25.170 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:33:25.171 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:33:26.077 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@813a6511
+[INFO ] 2023-08-22 15:33:26.077 [main] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:33:48.960 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-22 15:33:52.966 [main] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-08-22 15:33:53.003 [main] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-08-22 15:33:53.011 [main] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-08-22 15:33:53.019 [main] LogImplementation - li.getText() = 
+[INFO ] 2023-08-22 15:33:53.026 [main] LogImplementation - li.getText() = HOME
+[INFO ] 2023-08-22 15:33:53.033 [main] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-08-22 15:33:53.043 [main] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-08-22 15:33:53.050 [main] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-08-22 15:33:53.050 [main] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-22 15:33:53.740 [main] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:33:53.764 [main] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:33:53.764 [main] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:53.765 [main] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:33:53.765 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:33:53.767 [main] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:33:54.729 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@813a6511
+[INFO ] 2023-08-22 15:33:54.729 [main] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:34:07.691 [main] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-22 15:34:11.698 [main] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-08-22 15:34:11.721 [main] LogImplementation - About section title is present
+[INFO ] 2023-08-22 15:35:04.084 [TestNG-PoolService-3] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:35:04.084 [TestNG-PoolService-1] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:35:04.084 [TestNG-PoolService-0] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:35:04.084 [TestNG-PoolService-2] LogImplementation - subFolder = C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-3] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-0] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-1] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-2] LogImplementation - Timestamp from HTML: Aug 22, 2023 02:48:23 pm
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-3] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-1] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-0] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.174 [TestNG-PoolService-2] LogImplementation - Formatted Date: 22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-2] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-0] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-1] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-3] LogImplementation - Error moving folder: C:\Users\lenovo\Desktop\QA-Automation\TestRunner\ExtentReports\SparkReport_ 21 -> C:\Users\lenovo\Desktop\QA-Automation\TestRunner\MovedExtentReports\SparkReport_22_Aug_23 14_48_23
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:35:04.176 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-08-22 15:35:04.194 [TestNG-PoolService-1] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:35:04.194 [TestNG-PoolService-2] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:35:04.194 [TestNG-PoolService-3] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:35:04.194 [TestNG-PoolService-0] LogImplementation - headless = false
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@5a196422
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@5a196422
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@5a196422
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@5a196422
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:35:07.443 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-08-22 15:35:28.581 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-22 15:35:30.489 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-08-22 15:35:30.575 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-08-22 15:35:30.593 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-08-22 15:35:30.603 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-08-22 15:35:30.616 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-08-22 15:35:30.630 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-08-22 15:35:30.646 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-08-22 15:35:30.663 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-08-22 15:35:30.664 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-08-22 15:35:31.636 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-08-22 15:35:32.583 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-08-22 15:35:32.607 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-08-22 15:35:34.443 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-08-22 15:35:38.446 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-08-22 15:35:38.479 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-08-22 15:35:38.486 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-08-22 15:35:38.493 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-08-22 15:35:38.500 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-08-22 15:35:38.506 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-08-22 15:35:38.514 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-08-22 15:35:38.520 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-08-22 15:35:38.520 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 12:18:22.589 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:18:22.589 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:18:22.589 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:18:22.589 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:18:22.591 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:18:22.591 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:18:22.591 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:18:22.591 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:18:22.606 [TestNG-PoolService-3] LogImplementation - headless = false
+[INFO ] 2023-10-09 12:18:22.606 [TestNG-PoolService-0] LogImplementation - headless = false
+[INFO ] 2023-10-09 12:18:22.606 [TestNG-PoolService-2] LogImplementation - headless = false
+[INFO ] 2023-10-09 12:18:22.606 [TestNG-PoolService-1] LogImplementation - headless = false
+[DEBUG] 2023-10-09 12:18:23.492 [TestNG-PoolService-0] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 12:18:23.497 [TestNG-PoolService-0] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 12:18:23.497 [TestNG-PoolService-0] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 12:18:23.501 [TestNG-PoolService-0] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4990189f
+[DEBUG] 2023-10-09 12:18:23.514 [TestNG-PoolService-0] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 12:18:23.514 [TestNG-PoolService-0] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 12:18:23.515 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 12:18:23.515 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 12:18:23.515 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 12:18:23.515 [TestNG-PoolService-0] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 12:18:23.517 [TestNG-PoolService-0] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 12:18:23.517 [TestNG-PoolService-0] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 12:18:23.518 [TestNG-PoolService-0] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4d50efb8
+[DEBUG] 2023-10-09 12:18:23.519 [TestNG-PoolService-0] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 12:18:23.519 [TestNG-PoolService-0] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 12:18:23.520 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 12:18:23.521 [TestNG-PoolService-0] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 12:18:23.521 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 12:18:23.528 [TestNG-PoolService-0] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 12:18:23.543 [TestNG-PoolService-0] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 12:18:23.543 [TestNG-PoolService-0] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 12:18:23.694 [TestNG-PoolService-0] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 12:18:23.694 [TestNG-PoolService-0] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 12:18:23.704 [TestNG-PoolService-0] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 12:18:23.714 [TestNG-PoolService-0] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 12:18:23.722 [TestNG-PoolService-0] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 12:18:23.722 [TestNG-PoolService-0] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 12:18:23.761 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 12:18:23.772 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 12:18:23.772 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 12:18:23.772 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 12:18:23.986 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 25572 (auto-detected)
+[DEBUG] 2023-10-09 12:18:23.987 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 12:18:23.987 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 12:18:23.997 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 12:18:23.998 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 12:18:24.014 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 12:18:24.050 [AsyncHttpClient-1-5] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 12:18:24.051 [AsyncHttpClient-1-5] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 12:18:24.051 [AsyncHttpClient-1-5] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2e8aff09
+[DEBUG] 2023-10-09 12:18:24.071 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 12:18:24.071 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 12:18:24.071 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 12:18:24.071 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 12:18:24.071 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 12:18:25.760 [AsyncHttpClient-1-2] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 12:18:26.086 [TestNG-PoolService-1] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xc0f07a14a7158673
+[INFO ] 2023-10-09 12:18:26.171 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2c7360b4
+[INFO ] 2023-10-09 12:18:26.171 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2c7360b4
+[INFO ] 2023-10-09 12:18:26.171 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:18:26.171 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:18:26.176 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@2c7360b4
+[INFO ] 2023-10-09 12:18:26.176 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2c7360b4
+[INFO ] 2023-10-09 12:18:26.176 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:18:26.176 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:19:08.727 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-09 12:19:17.474 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 12:19:20.100 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-09 12:19:20.159 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 12:19:20.175 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 12:19:20.189 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 12:19:20.201 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 12:19:20.212 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 12:19:20.222 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 12:19:20.232 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 12:19:20.233 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 12:19:21.488 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-09 12:19:21.545 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 12:19:21.557 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 12:19:21.567 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 12:19:21.575 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 12:19:21.585 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 12:19:21.593 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 12:19:21.602 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 12:19:21.602 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 12:19:28.977 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 12:19:32.982 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-09 12:19:33.035 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-09 12:57:20.701 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:20.701 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:20.701 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:20.701 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:20.703 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:20.703 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:20.703 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:20.703 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 12:57:22.247 [TestNG-PoolService-1] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 12:57:22.251 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 12:57:22.251 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 12:57:22.254 [TestNG-PoolService-1] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@628d6fe3
+[DEBUG] 2023-10-09 12:57:22.268 [TestNG-PoolService-1] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 12:57:22.269 [TestNG-PoolService-1] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 12:57:22.269 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 12:57:22.269 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 12:57:22.270 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 12:57:22.270 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 12:57:22.271 [TestNG-PoolService-1] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 12:57:22.271 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 12:57:22.272 [TestNG-PoolService-1] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4d50efb8
+[DEBUG] 2023-10-09 12:57:22.273 [TestNG-PoolService-1] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 12:57:22.273 [TestNG-PoolService-1] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 12:57:22.273 [TestNG-PoolService-1] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 12:57:22.274 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 12:57:22.274 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 12:57:22.274 [TestNG-PoolService-1] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 12:57:22.274 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 12:57:22.274 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 12:57:22.276 [TestNG-PoolService-1] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 12:57:22.276 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 12:57:22.281 [TestNG-PoolService-1] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 12:57:22.300 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 12:57:22.300 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 12:57:22.436 [TestNG-PoolService-1] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 12:57:22.436 [TestNG-PoolService-1] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 12:57:22.445 [TestNG-PoolService-1] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 12:57:22.454 [TestNG-PoolService-1] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 12:57:22.460 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 12:57:22.460 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 12:57:22.506 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 12:57:22.506 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 12:57:22.506 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 12:57:22.507 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 12:57:22.517 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 12:57:22.517 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 12:57:22.517 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 12:57:22.737 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 13740 (auto-detected)
+[DEBUG] 2023-10-09 12:57:22.739 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 12:57:22.739 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 12:57:22.749 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 12:57:22.750 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 12:57:22.768 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 12:57:22.808 [AsyncHttpClient-1-4] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 12:57:22.809 [AsyncHttpClient-1-4] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 12:57:22.809 [AsyncHttpClient-1-4] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7efa1c72
+[DEBUG] 2023-10-09 12:57:22.832 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 12:57:22.832 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 12:57:22.832 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 12:57:22.833 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 12:57:22.833 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 12:57:24.190 [AsyncHttpClient-1-4] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 12:57:24.391 [TestNG-PoolService-0] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xeabad448533cede5
+[INFO ] 2023-10-09 12:57:24.477 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:24.478 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:34.441 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:34.442 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:35.459 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:35.459 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:40.560 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:40.560 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:41.486 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:41.486 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:47.344 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:47.344 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:48.182 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:48.182 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:57:52.375 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:57:52.375 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:57:53.253 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@4f85b64b
+[INFO ] 2023-10-09 12:57:53.253 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 12:58:50.792 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:58:50.792 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:58:50.792 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:58:50.792 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 12:58:50.794 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:58:50.794 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:58:50.794 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 12:58:50.795 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 12:58:51.417 [TestNG-PoolService-1] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 12:58:51.421 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 12:58:51.421 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 12:58:51.423 [TestNG-PoolService-1] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@78285bc2
+[DEBUG] 2023-10-09 12:58:51.434 [TestNG-PoolService-1] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 12:58:51.435 [TestNG-PoolService-1] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 12:58:51.435 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 12:58:51.435 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 12:58:51.436 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 12:58:51.436 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 12:58:51.436 [TestNG-PoolService-1] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 12:58:51.437 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 12:58:51.437 [TestNG-PoolService-1] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4d50efb8
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 12:58:51.438 [TestNG-PoolService-1] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 12:58:51.439 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 12:58:51.439 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 12:58:51.440 [TestNG-PoolService-1] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 12:58:51.440 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 12:58:51.445 [TestNG-PoolService-1] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 12:58:51.455 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 12:58:51.455 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 12:58:51.562 [TestNG-PoolService-1] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 12:58:51.562 [TestNG-PoolService-1] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 12:58:51.571 [TestNG-PoolService-1] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 12:58:51.579 [TestNG-PoolService-1] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 12:58:51.590 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 12:58:51.591 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 12:58:51.620 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 12:58:51.621 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 12:58:51.629 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 12:58:51.629 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 12:58:51.629 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 12:58:51.827 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 22104 (auto-detected)
+[DEBUG] 2023-10-09 12:58:51.828 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 12:58:51.828 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 12:58:51.839 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 12:58:51.840 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 12:58:51.858 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 12:58:51.890 [AsyncHttpClient-1-5] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 12:58:51.890 [AsyncHttpClient-1-5] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 12:58:51.890 [AsyncHttpClient-1-5] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@19e182a4
+[DEBUG] 2023-10-09 12:58:51.911 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 12:58:51.912 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 12:58:51.912 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 12:58:51.912 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 12:58:51.912 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 12:58:53.018 [AsyncHttpClient-1-4] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 12:58:53.250 [TestNG-PoolService-1] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x12251335434b16db
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@1ab39769
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@1ab39769
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@1ab39769
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@1ab39769
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:58:53.318 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 12:59:22.200 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-09 12:59:24.632 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 12:59:26.435 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-09 12:59:26.517 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 12:59:26.535 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 12:59:26.553 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 12:59:26.569 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 12:59:26.588 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 12:59:26.603 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 12:59:26.619 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 12:59:26.619 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 12:59:28.645 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-09 12:59:28.689 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-09 12:59:45.785 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 12:59:49.800 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-09 12:59:49.852 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 12:59:49.864 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 12:59:49.881 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 12:59:49.895 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 12:59:49.910 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 12:59:49.924 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 12:59:49.936 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 12:59:49.936 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:03:25.252 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:03:25.252 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:03:25.252 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:03:25.252 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:03:25.256 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:03:25.256 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:03:25.256 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:03:25.256 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 13:03:26.030 [TestNG-PoolService-2] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 13:03:26.035 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 13:03:26.035 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 13:03:26.039 [TestNG-PoolService-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6a5d7c69
+[DEBUG] 2023-10-09 13:03:26.053 [TestNG-PoolService-2] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 13:03:26.053 [TestNG-PoolService-2] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 13:03:26.053 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 13:03:26.054 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 13:03:26.054 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 13:03:26.054 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 13:03:26.055 [TestNG-PoolService-2] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 13:03:26.055 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 13:03:26.056 [TestNG-PoolService-2] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @71318ec4
+[DEBUG] 2023-10-09 13:03:26.056 [TestNG-PoolService-2] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 13:03:26.056 [TestNG-PoolService-2] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 13:03:26.057 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 13:03:26.058 [TestNG-PoolService-2] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 13:03:26.058 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 13:03:26.066 [TestNG-PoolService-2] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 13:03:26.078 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 13:03:26.078 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 13:03:26.187 [TestNG-PoolService-2] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 13:03:26.187 [TestNG-PoolService-2] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 13:03:26.196 [TestNG-PoolService-2] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 13:03:26.205 [TestNG-PoolService-2] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 13:03:26.209 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 13:03:26.209 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 13:03:26.242 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 13:03:26.243 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 13:03:26.243 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 13:03:26.249 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 13:03:26.249 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 13:03:26.249 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 13:03:26.444 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 21988 (auto-detected)
+[DEBUG] 2023-10-09 13:03:26.445 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 13:03:26.445 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 13:03:26.454 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 13:03:26.455 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 13:03:26.470 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 13:03:26.512 [AsyncHttpClient-1-4] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 13:03:26.512 [AsyncHttpClient-1-4] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 13:03:26.512 [AsyncHttpClient-1-4] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@159bc0c2
+[DEBUG] 2023-10-09 13:03:26.536 [AsyncHttpClient-1-5] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 13:03:26.537 [AsyncHttpClient-1-5] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 13:03:26.537 [AsyncHttpClient-1-5] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 13:03:26.537 [AsyncHttpClient-1-5] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 13:03:26.537 [AsyncHttpClient-1-5] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 13:03:27.384 [AsyncHttpClient-1-4] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 13:03:27.623 [TestNG-PoolService-3] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x96b10740e9f59494
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2d5665e3
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2d5665e3
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@2d5665e3
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2d5665e3
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:03:27.686 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:03:57.890 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-09 13:03:59.630 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:04:00.653 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-09 13:04:00.715 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:04:00.728 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:04:00.739 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:04:00.750 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:04:00.762 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:04:00.776 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:04:00.797 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:04:00.797 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:04:01.057 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:04:03.639 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-09 13:04:03.674 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-09 13:04:05.065 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-09 13:04:05.148 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:04:05.161 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:04:05.170 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:04:05.176 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:04:05.186 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:04:05.204 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:04:05.221 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:04:05.221 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:09:46.343 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:09:46.343 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:09:46.343 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:09:46.343 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:09:46.346 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:09:46.346 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:09:46.346 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:09:46.346 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@465c2af2
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@465c2af2
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@465c2af2
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:09:48.613 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:09:48.616 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@465c2af2
+[INFO ] 2023-10-09 13:09:48.616 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:10:13.645 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:10:14.015 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-09 13:10:16.752 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-09 13:10:16.821 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:10:16.830 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:10:16.831 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:10:16.838 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:10:16.845 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:10:16.851 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:10:16.856 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:10:16.864 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:10:16.864 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:10:17.651 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-09 13:10:17.680 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-09 13:10:20.843 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-09 13:10:20.879 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:10:20.886 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:10:20.892 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:10:20.898 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:10:20.904 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:10:20.910 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:10:20.915 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:10:20.915 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:11:48.377 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:11:48.377 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:11:48.377 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:11:48.377 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 13:11:48.380 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:11:48.380 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:11:48.380 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 13:11:48.380 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 13:11:48.986 [TestNG-PoolService-3] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 13:11:48.990 [TestNG-PoolService-3] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 13:11:48.990 [TestNG-PoolService-3] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 13:11:48.993 [TestNG-PoolService-3] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@24b18115
+[DEBUG] 2023-10-09 13:11:49.004 [TestNG-PoolService-3] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 13:11:49.004 [TestNG-PoolService-3] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 13:11:49.005 [TestNG-PoolService-3] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 13:11:49.005 [TestNG-PoolService-3] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 13:11:49.006 [TestNG-PoolService-3] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 13:11:49.006 [TestNG-PoolService-3] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 13:11:49.006 [TestNG-PoolService-3] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 13:11:49.007 [TestNG-PoolService-3] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 13:11:49.007 [TestNG-PoolService-3] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3632be31
+[DEBUG] 2023-10-09 13:11:49.008 [TestNG-PoolService-3] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 13:11:49.008 [TestNG-PoolService-3] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 13:11:49.009 [TestNG-PoolService-3] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 13:11:49.010 [TestNG-PoolService-3] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 13:11:49.010 [TestNG-PoolService-3] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 13:11:49.015 [TestNG-PoolService-3] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 13:11:49.026 [TestNG-PoolService-3] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 13:11:49.027 [TestNG-PoolService-3] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 13:11:49.145 [TestNG-PoolService-3] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 13:11:49.145 [TestNG-PoolService-3] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 13:11:49.157 [TestNG-PoolService-3] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 13:11:49.164 [TestNG-PoolService-3] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 13:11:49.169 [TestNG-PoolService-3] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 13:11:49.169 [TestNG-PoolService-3] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 13:11:49.202 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 13:11:49.203 [TestNG-PoolService-3] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 13:11:49.208 [TestNG-PoolService-3] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 13:11:49.208 [TestNG-PoolService-3] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 13:11:49.208 [TestNG-PoolService-3] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 13:11:49.422 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 24844 (auto-detected)
+[DEBUG] 2023-10-09 13:11:49.428 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 13:11:49.428 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 13:11:49.439 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 13:11:49.439 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 13:11:49.454 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 13:11:49.485 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 13:11:49.486 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 13:11:49.486 [AsyncHttpClient-1-3] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@24adbd68
+[DEBUG] 2023-10-09 13:11:49.508 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 13:11:49.508 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 13:11:49.508 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 13:11:49.508 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 13:11:49.508 [AsyncHttpClient-1-4] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 13:11:50.446 [AsyncHttpClient-1-5] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 13:11:50.641 [TestNG-PoolService-0] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x9e9a80e882111b4c
+[INFO ] 2023-10-09 13:11:50.691 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@2f4b2fa5
+[INFO ] 2023-10-09 13:11:50.691 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2f4b2fa5
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2f4b2fa5
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2f4b2fa5
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:11:50.692 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-09 13:12:12.030 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:12:13.645 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-09 13:12:16.046 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-09 13:12:16.094 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-09 13:12:17.660 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-09 13:12:17.755 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:12:17.768 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:12:17.779 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:12:17.785 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:12:17.794 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:12:17.804 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:12:17.817 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:12:17.817 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 13:12:17.908 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-09 13:12:18.684 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-09 13:12:18.749 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-09 13:12:18.760 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-09 13:12:18.775 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-09 13:12:18.794 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-09 13:12:18.813 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-09 13:12:18.829 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-09 13:12:18.847 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-09 13:12:18.848 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-09 15:06:33.251 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:06:33.251 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:06:33.251 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:06:33.251 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:06:33.255 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:06:33.255 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:06:33.255 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:06:33.255 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 15:06:35.087 [TestNG-PoolService-2] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 15:06:35.091 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 15:06:35.091 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 15:06:35.094 [TestNG-PoolService-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@a4aa9ea
+[DEBUG] 2023-10-09 15:06:35.108 [TestNG-PoolService-2] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 15:06:35.108 [TestNG-PoolService-2] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 15:06:35.108 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 15:06:35.108 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 15:06:35.109 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 15:06:35.109 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 15:06:35.109 [TestNG-PoolService-2] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 15:06:35.110 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 15:06:35.111 [TestNG-PoolService-2] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @71318ec4
+[DEBUG] 2023-10-09 15:06:35.111 [TestNG-PoolService-2] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 15:06:35.112 [TestNG-PoolService-2] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 15:06:35.112 [TestNG-PoolService-2] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 15:06:35.112 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 15:06:35.113 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 15:06:35.114 [TestNG-PoolService-2] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 15:06:35.114 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 15:06:35.114 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 15:06:35.116 [TestNG-PoolService-2] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 15:06:35.116 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 15:06:35.121 [TestNG-PoolService-2] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 15:06:35.141 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 15:06:35.141 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 15:06:35.290 [TestNG-PoolService-2] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 15:06:35.290 [TestNG-PoolService-2] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 15:06:35.301 [TestNG-PoolService-2] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 15:06:35.312 [TestNG-PoolService-2] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 15:06:35.321 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 15:06:35.321 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 15:06:35.362 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 15:06:35.363 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 15:06:35.363 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 15:06:35.371 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 15:06:35.371 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 15:06:35.371 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 15:06:35.921 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 30460 (auto-detected)
+[DEBUG] 2023-10-09 15:06:35.924 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 15:06:35.924 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 15:06:35.934 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 15:06:35.935 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 15:06:35.951 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 15:06:35.987 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 15:06:35.987 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 15:06:35.988 [AsyncHttpClient-1-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@51b63d8a
+[DEBUG] 2023-10-09 15:06:36.012 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 15:06:36.012 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 15:06:36.012 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 15:06:36.012 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 15:06:36.012 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 15:06:37.735 [AsyncHttpClient-1-3] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 15:06:38.086 [TestNG-PoolService-3] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xd75735925dc1e355
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@6ed856d6
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@6ed856d6
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@6ed856d6
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@6ed856d6
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:06:38.137 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:06:51.538 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:07:43.130 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:07:43.133 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 15:07:43.878 [TestNG-PoolService-0] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 15:07:43.883 [TestNG-PoolService-0] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 15:07:43.883 [TestNG-PoolService-0] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 15:07:43.887 [TestNG-PoolService-0] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@d02a9de
+[DEBUG] 2023-10-09 15:07:43.905 [TestNG-PoolService-0] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 15:07:43.905 [TestNG-PoolService-0] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 15:07:43.905 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 15:07:43.906 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 15:07:43.906 [TestNG-PoolService-0] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 15:07:43.906 [TestNG-PoolService-0] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 15:07:43.907 [TestNG-PoolService-0] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 15:07:43.908 [TestNG-PoolService-0] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 15:07:43.909 [TestNG-PoolService-0] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @21213b92
+[DEBUG] 2023-10-09 15:07:43.909 [TestNG-PoolService-0] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 15:07:43.909 [TestNG-PoolService-0] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 15:07:43.910 [TestNG-PoolService-0] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 15:07:43.910 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 15:07:43.910 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 15:07:43.910 [TestNG-PoolService-0] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 15:07:43.911 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 15:07:43.911 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 15:07:43.912 [TestNG-PoolService-0] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 15:07:43.912 [TestNG-PoolService-0] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 15:07:43.918 [TestNG-PoolService-0] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 15:07:43.938 [TestNG-PoolService-0] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 15:07:43.938 [TestNG-PoolService-0] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 15:07:44.075 [TestNG-PoolService-0] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 15:07:44.075 [TestNG-PoolService-0] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 15:07:44.085 [TestNG-PoolService-0] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 15:07:44.094 [TestNG-PoolService-0] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 15:07:44.101 [TestNG-PoolService-0] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 15:07:44.101 [TestNG-PoolService-0] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 15:07:44.139 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 15:07:44.140 [TestNG-PoolService-0] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 15:07:44.149 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 15:07:44.149 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 15:07:44.149 [TestNG-PoolService-0] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 15:07:44.357 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 12684 (auto-detected)
+[DEBUG] 2023-10-09 15:07:44.360 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 15:07:44.360 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 15:07:44.370 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 15:07:44.370 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 15:07:44.387 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 15:07:44.421 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 15:07:44.421 [AsyncHttpClient-1-2] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 15:07:44.421 [AsyncHttpClient-1-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@70a8bf56
+[DEBUG] 2023-10-09 15:07:44.443 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 15:07:44.443 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 15:07:44.443 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 15:07:44.443 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 15:07:44.443 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 15:07:45.559 [AsyncHttpClient-1-2] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 15:07:45.661 [TestNG-PoolService-0] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x96b7ef6f8311f762
+[INFO ] 2023-10-09 15:07:45.704 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@5f81f6e6
+[INFO ] 2023-10-09 15:07:45.704 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:08:44.781 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:08:44.781 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:08:44.781 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:08:44.784 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:08:44.784 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:08:44.784 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 15:08:45.411 [TestNG-PoolService-1] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 15:08:45.416 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 15:08:45.416 [TestNG-PoolService-1] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 15:08:45.419 [TestNG-PoolService-1] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@445f3e0d
+[DEBUG] 2023-10-09 15:08:45.434 [TestNG-PoolService-1] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 15:08:45.434 [TestNG-PoolService-1] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 15:08:45.434 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 15:08:45.435 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 15:08:45.435 [TestNG-PoolService-1] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 15:08:45.436 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 15:08:45.436 [TestNG-PoolService-1] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 15:08:45.437 [TestNG-PoolService-1] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 15:08:45.438 [TestNG-PoolService-1] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @52a86356
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 15:08:45.439 [TestNG-PoolService-1] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 15:08:45.440 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 15:08:45.440 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 15:08:45.441 [TestNG-PoolService-1] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 15:08:45.441 [TestNG-PoolService-1] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 15:08:45.448 [TestNG-PoolService-1] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 15:08:45.464 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 15:08:45.464 [TestNG-PoolService-1] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 15:08:45.599 [TestNG-PoolService-1] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 15:08:45.599 [TestNG-PoolService-1] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 15:08:45.610 [TestNG-PoolService-1] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 15:08:45.621 [TestNG-PoolService-1] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 15:08:45.633 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 15:08:45.633 [TestNG-PoolService-1] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 15:08:45.665 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 15:08:45.666 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 15:08:45.666 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 15:08:45.666 [TestNG-PoolService-1] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 15:08:45.672 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 15:08:45.672 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 15:08:45.672 [TestNG-PoolService-1] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 15:08:45.850 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 30944 (auto-detected)
+[DEBUG] 2023-10-09 15:08:45.852 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 15:08:45.852 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 15:08:45.863 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 15:08:45.864 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 15:08:45.880 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 15:08:45.915 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 15:08:45.915 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 15:08:45.915 [AsyncHttpClient-1-3] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d11cde4
+[DEBUG] 2023-10-09 15:08:45.936 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 15:08:45.936 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 15:08:45.936 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 15:08:45.936 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 15:08:45.936 [AsyncHttpClient-1-2] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 15:08:46.935 [AsyncHttpClient-1-4] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 15:08:47.209 [TestNG-PoolService-2] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xbf4a4aeeb7a2e0ad
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@604f3777
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@604f3777
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@604f3777
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:08:47.251 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:10:32.579 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:10:32.579 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:10:32.579 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 15:10:32.583 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:10:32.583 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 15:10:32.583 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[DEBUG] 2023-10-09 15:10:33.188 [TestNG-PoolService-2] InternalLoggerFactory - Using Log4J2 as the default logging framework
+[DEBUG] 2023-10-09 15:10:33.192 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-10-09 15:10:33.192 [TestNG-PoolService-2] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-10-09 15:10:33.195 [TestNG-PoolService-2] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@fb48b97
+[DEBUG] 2023-10-09 15:10:33.207 [TestNG-PoolService-2] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-10-09 15:10:33.207 [TestNG-PoolService-2] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-10-09 15:10:33.208 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-10-09 15:10:33.208 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-10-09 15:10:33.208 [TestNG-PoolService-2] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-10-09 15:10:33.208 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-10-09 15:10:33.209 [TestNG-PoolService-2] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-10-09 15:10:33.209 [TestNG-PoolService-2] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-10-09 15:10:33.210 [TestNG-PoolService-2] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @2286778
+[DEBUG] 2023-10-09 15:10:33.211 [TestNG-PoolService-2] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-10-09 15:10:33.211 [TestNG-PoolService-2] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-10-09 15:10:33.211 [TestNG-PoolService-2] PlatformDependent - maxDirectMemory: 2095054848 bytes (maybe)
+[DEBUG] 2023-10-09 15:10:33.211 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.tmpdir: C:\Users\lenovo\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-10-09 15:10:33.212 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-10-09 15:10:33.212 [TestNG-PoolService-2] PlatformDependent - Platform: Windows
+[DEBUG] 2023-10-09 15:10:33.212 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-10-09 15:10:33.212 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-10-09 15:10:33.213 [TestNG-PoolService-2] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-10-09 15:10:33.213 [TestNG-PoolService-2] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-10-09 15:10:33.218 [TestNG-PoolService-2] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-10-09 15:10:33.235 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-10-09 15:10:33.235 [TestNG-PoolService-2] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-10-09 15:10:33.358 [TestNG-PoolService-2] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-10-09 15:10:33.358 [TestNG-PoolService-2] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-10-09 15:10:33.365 [TestNG-PoolService-2] GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[DEBUG] 2023-10-09 15:10:33.373 [TestNG-PoolService-2] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+[DEBUG] 2023-10-09 15:10:33.379 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-10-09 15:10:33.379 [TestNG-PoolService-2] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-10-09 15:10:33.416 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-10-09 15:10:33.417 [TestNG-PoolService-2] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-10-09 15:10:33.425 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-10-09 15:10:33.426 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-10-09 15:10:33.426 [TestNG-PoolService-2] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[DEBUG] 2023-10-09 15:10:33.614 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.processId: 17024 (auto-detected)
+[DEBUG] 2023-10-09 15:10:33.615 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv4Stack: false
+[DEBUG] 2023-10-09 15:10:33.615 [Forwarding newSession on session null to remote] NetUtil - -Djava.net.preferIPv6Addresses: false
+[DEBUG] 2023-10-09 15:10:33.626 [Forwarding newSession on session null to remote] NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+[DEBUG] 2023-10-09 15:10:33.626 [Forwarding newSession on session null to remote] NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[DEBUG] 2023-10-09 15:10:33.642 [Forwarding newSession on session null to remote] DefaultChannelId - -Dio.netty.machineId: c4:75:ab:ff:fe:dd:cb:42 (auto-detected)
+[DEBUG] 2023-10-09 15:10:33.669 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+[DEBUG] 2023-10-09 15:10:33.669 [AsyncHttpClient-1-3] AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+[DEBUG] 2023-10-09 15:10:33.669 [AsyncHttpClient-1-3] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4e97a32f
+[DEBUG] 2023-10-09 15:10:33.685 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+[DEBUG] 2023-10-09 15:10:33.685 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.ratio: 8
+[DEBUG] 2023-10-09 15:10:33.685 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.chunkSize: 32
+[DEBUG] 2023-10-09 15:10:33.685 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.blocking: false
+[DEBUG] 2023-10-09 15:10:33.685 [AsyncHttpClient-1-3] Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[DEBUG] 2023-10-09 15:10:34.673 [AsyncHttpClient-1-2] Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+[DEBUG] 2023-10-09 15:10:34.828 [TestNG-PoolService-2] ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x83a9625ee6cc6672
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2501dfaf
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2501dfaf
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2501dfaf
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+    <property name="APP_URL">https://primerep.tatacommunications.com/</property>
+    <property name="BROWSER">CHROME</property>
+    <property name="MIN_WAIT">3</property>
+    <property name="MAX_WAIT">10</property>
+    <property name="AVG_WAIT">5</property>
+    <property name="BROWSER_VERSION">114.0.0</property>
+    <property name="PLATFORM_NAME">windows</property>
+    <property name="BASE_URL">http://www.revdau.com/</property>
+    <property name="MOBILE">IPHONE_6</property>
+</root>
