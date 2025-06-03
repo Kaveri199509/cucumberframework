@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e1600ab-fc2f-4083-9f33-21b58d581ec7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TestRunner/src/main/java/pageFactory/sonar/SonarQubeDataPFM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestRunner/src/main/java/utility/ExtentReportDataExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestRunner/src/test/feat/SonarQube.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestRunner/src/test/java/stepDefinitions/sonarQube/SonarQubeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseConnector/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseConnector/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseConnector/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseConnector/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/ExtentReports/SparkReport_ 21/Reports/Spark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/ExtentReports/SparkReport_ 21/Reports/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/ExtentReports/SparkReport_ 21/Reports/embedded2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/configs/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/logs/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/logs/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/src/test/feat/addNewRole.feature" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/src/test/features/addNewRole.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/src/test/features/roleManagementDashboard.feature" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/src/test/feat/roleManagementDashboard.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/src/test/features/searchRoleApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/src/test/feat/searchRoleApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/src/test/java/stepDefinitions/tata/TataDashboardTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/src/test/java/stepDefinitions/tata/TataDashboardTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRunner/src/test/java/testRunner/TestngRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestRunner/src/test/java/testRunner/TestngRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WVzd9B1jo0VFUBnyOcqrFdnOOW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/user/Desktop/QA_FEB/QA_Automation"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\QA_Automation\TestRunner\src\main\java\utility" />
+      <recent name="D:\QA_Automation\TestRunner\src\main\java\pageFactory" />
+      <recent name="D:\QA_Automation\TestRunner\src\test\java\stepDefinitions" />
+      <recent name="D:\QA_Automation\TestRunner\src\test\features" />
+      <recent name="C:\Users\lenovo\Downloads\QA_Automation\TestRunner\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\QA_Automation\TestRunner\src\test\features" />
+      <recent name="D:\QA_Automation\TestRunner\src\test\feat" />
+      <recent name="C:\Users\lenovo\Downloads\QA_Automation\TestRunner\src\test\features" />
+      <recent name="C:\Users\lenovo\Downloads\QA_Automation\TestRunner\src\test\feat" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestngRunner">
+    <configuration name="TestngRunner (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestRunner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestngRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestRunner" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Java/jdk-17" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestngRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestngRunner (1)" />
+      <item itemvalue="TestNG.TestngRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestngRunner" />
+        <item itemvalue="TestNG.TestngRunner (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1600ab-fc2f-4083-9f33-21b58d581ec7" name="Changes" comment="" />
+      <created>1696832622429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696832622429</updated>
+    </task>
+    <servers />
+  </component>
+</project>
