@@ -1483,3 +1483,308 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 [INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
 [INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
 [INFO ] 2023-10-09 15:10:34.877 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 16:20:31.167 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 16:20:31.168 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 16:20:31.167 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-09 16:20:31.174 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 16:20:31.174 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 16:20:31.174 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-09 16:20:37.172 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@3b13b581
+[INFO ] 2023-10-09 16:20:37.173 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 16:20:37.173 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@3b13b581
+[INFO ] 2023-10-09 16:20:37.173 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-09 16:20:37.174 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@3b13b581
+[INFO ] 2023-10-09 16:20:37.174 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:02.737 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:02.736 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:02.736 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:02.739 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:02.739 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:02.739 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:07.249 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:16.394 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:16.394 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:17.582 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:17.582 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:24.265 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:24.265 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:25.145 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:25.145 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:12:29.297 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:12:29.297 [main] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:12:30.348 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@2c5e03c0
+[INFO ] 2023-10-10 16:12:30.348 [main] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 16:30:24.690 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:30:24.689 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:30:24.689 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:30:24.689 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:30:24.692 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:30:24.692 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:30:24.692 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:30:24.692 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2d673d0
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@2d673d0
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2d673d0
+[INFO ] 2023-10-10 16:30:28.215 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:30:28.216 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2d673d0
+[INFO ] 2023-10-10 16:30:28.216 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:31:06.367 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-10 16:31:07.689 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-10 16:31:11.701 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-10 16:31:11.768 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-10 16:31:38.046 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-10 16:31:42.051 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-10 16:31:42.148 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-10 16:31:42.165 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-10 16:31:42.183 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-10 16:31:42.198 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-10 16:31:42.213 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-10 16:31:42.223 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-10 16:31:42.238 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-10 16:31:42.239 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-10 16:32:00.595 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-10 16:32:00.686 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-10 16:32:00.700 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-10 16:32:00.716 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-10 16:32:00.731 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-10 16:32:00.747 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-10 16:32:00.766 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-10 16:32:00.782 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-10 16:32:00.782 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-10 16:32:22.801 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:32:22.801 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:32:22.801 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:32:22.801 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:32:22.803 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:32:22.803 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:32:22.803 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:32:22.803 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:32:25.219 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4ada5e32
+[INFO ] 2023-10-10 16:32:25.219 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:32:25.234 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@4ada5e32
+[INFO ] 2023-10-10 16:32:25.234 [TestNG-PoolService-2] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:32:25.234 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@4ada5e32
+[INFO ] 2023-10-10 16:32:25.238 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:32:25.247 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@4ada5e32
+[INFO ] 2023-10-10 16:32:25.247 [TestNG-PoolService-3] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 16:33:04.030 [TestNG-PoolService-1] LogImplementation - RevDau logo is present in the home page = true
+[INFO ] 2023-10-10 16:33:05.706 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-10 16:33:05.788 [TestNG-PoolService-0] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-10 16:33:05.806 [TestNG-PoolService-0] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-10 16:33:05.825 [TestNG-PoolService-0] LogImplementation - li.getText() = 
+[INFO ] 2023-10-10 16:33:05.846 [TestNG-PoolService-0] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-10 16:33:05.864 [TestNG-PoolService-0] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-10 16:33:05.886 [TestNG-PoolService-0] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-10 16:33:05.910 [TestNG-PoolService-0] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-10 16:33:05.910 [TestNG-PoolService-0] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-10 16:33:06.401 [TestNG-PoolService-2] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-10 16:33:08.257 [TestNG-PoolService-3] LogImplementation - Click action perform on about section
+[INFO ] 2023-10-10 16:33:10.411 [TestNG-PoolService-2] LogImplementation - String=RevDau - Accelerating Digital Transformation | About Us
+[INFO ] 2023-10-10 16:33:10.468 [TestNG-PoolService-2] LogImplementation - li.getText() = engage@revdau.com
+[INFO ] 2023-10-10 16:33:10.483 [TestNG-PoolService-2] LogImplementation - li.getText() = +91 9029028803
+[INFO ] 2023-10-10 16:33:10.498 [TestNG-PoolService-2] LogImplementation - li.getText() = 
+[INFO ] 2023-10-10 16:33:10.513 [TestNG-PoolService-2] LogImplementation - li.getText() = HOME
+[INFO ] 2023-10-10 16:33:10.527 [TestNG-PoolService-2] LogImplementation - li.getText() = ABOUT
+[INFO ] 2023-10-10 16:33:10.539 [TestNG-PoolService-2] LogImplementation - li.getText() = SERVICES
+[INFO ] 2023-10-10 16:33:10.554 [TestNG-PoolService-2] LogImplementation - li.getText() = CONTACT
+[INFO ] 2023-10-10 16:33:10.554 [TestNG-PoolService-2] LogImplementation - RevDau title is present in home page
+[INFO ] 2023-10-10 16:33:12.273 [TestNG-PoolService-3] LogImplementation - aboutSection = How we partner in your digital journey.
+[INFO ] 2023-10-10 16:33:12.309 [TestNG-PoolService-3] LogImplementation - About section title is present
+[INFO ] 2023-10-10 16:39:33.078 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:39:33.078 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:39:33.078 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:39:33.078 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:39:33.081 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:39:33.081 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:39:33.081 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:39:33.081 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:39:35.607 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@410bc9f6
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@410bc9f6
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@410bc9f6
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:39:35.607 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@410bc9f6
+[INFO ] 2023-10-10 16:39:35.608 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:39:37.349 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-10 16:42:08.795 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:42:08.795 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:42:08.795 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:42:08.795 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:42:08.797 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:42:08.797 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:42:08.797 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:42:08.797 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@615461fa
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@615461fa
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@615461fa
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@615461fa
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:42:11.261 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:42:12.686 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-10 16:46:41.232 [TestNG-PoolService-2] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:46:41.232 [TestNG-PoolService-3] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:46:41.232 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:46:41.232 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 16:46:41.234 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:46:41.234 [TestNG-PoolService-2] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:46:41.234 [TestNG-PoolService-3] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:46:41.234 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 16:46:43.779 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2b8a2391
+[INFO ] 2023-10-10 16:46:43.779 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@2b8a2391
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-3] LogImplementation - getDriverName = java.lang.ThreadLocal@2b8a2391
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-3] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-2] LogImplementation - getDriverName = java.lang.ThreadLocal@2b8a2391
+[INFO ] 2023-10-10 16:46:43.780 [TestNG-PoolService-2] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 16:46:45.176 [TestNG-PoolService-0] LogImplementation - String=RevDau - Accelerating Digital Transformation
+[INFO ] 2023-10-10 17:18:49.317 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:18:49.320 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:18:51.915 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4261dab8
+[INFO ] 2023-10-10 17:18:51.916 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:22:28.581 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:22:28.584 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:22:30.380 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@722609e6
+[INFO ] 2023-10-10 17:22:30.380 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:27:10.183 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:27:10.185 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:27:11.893 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@722609e6
+[INFO ] 2023-10-10 17:27:11.894 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:27:21.951 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:27:21.954 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:27:23.516 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@2632d7fe
+[INFO ] 2023-10-10 17:27:23.517 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:37:28.868 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:37:28.871 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:37:30.728 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@646d376a
+[INFO ] 2023-10-10 17:37:30.729 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:38:08.502 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:38:08.504 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:38:10.138 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@646d376a
+[INFO ] 2023-10-10 17:38:10.138 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:38:35.957 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:38:35.959 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:38:37.537 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4a610720
+[INFO ] 2023-10-10 17:38:37.537 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:49:18.275 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:49:18.275 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:49:18.277 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:49:18.277 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:49:20.521 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@4fed96c2
+[INFO ] 2023-10-10 17:49:20.522 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:49:20.523 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4fed96c2
+[INFO ] 2023-10-10 17:49:20.523 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:9000/dashboard?id=org.example%3AQA_Automation
+[INFO ] 2023-10-10 17:50:14.487 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:50:14.487 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:50:14.488 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:50:14.488 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:50:16.089 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@ab9bb54
+[INFO ] 2023-10-10 17:50:16.089 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@ab9bb54
+[INFO ] 2023-10-10 17:50:16.089 [TestNG-PoolService-1] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 17:50:16.089 [TestNG-PoolService-0] LogImplementation - Application Url =http://www.revdau.com/
+[INFO ] 2023-10-10 17:53:06.052 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:53:06.052 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:53:06.054 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:53:06.054 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:53:08.478 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@331d92e7
+[INFO ] 2023-10-10 17:53:08.478 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:53:08.479 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@331d92e7
+[INFO ] 2023-10-10 17:53:08.479 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:54:50.158 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:54:50.158 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:54:50.162 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:54:50.162 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:54:52.339 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@714260d2
+[INFO ] 2023-10-10 17:54:52.339 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@714260d2
+[INFO ] 2023-10-10 17:54:52.339 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:54:52.339 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:56:21.850 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:56:21.850 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:56:21.852 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:56:21.852 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:56:23.947 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@919622a
+[INFO ] 2023-10-10 17:56:23.947 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@919622a
+[INFO ] 2023-10-10 17:56:23.947 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:56:23.947 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:56:57.157 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:56:57.157 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2023-10-10 17:56:57.159 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:56:57.159 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2023-10-10 17:56:58.963 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@412aaa30
+[INFO ] 2023-10-10 17:56:58.963 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@412aaa30
+[INFO ] 2023-10-10 17:56:58.963 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2023-10-10 17:56:58.963 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2024-02-21 12:06:12.702 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:06:12.702 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:06:12.705 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:06:12.705 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:06:16.967 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@5c16fef3
+[INFO ] 2024-02-21 12:06:16.967 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@5c16fef3
+[INFO ] 2024-02-21 12:06:16.968 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2024-02-21 12:06:16.968 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3001/
+[INFO ] 2024-02-21 12:06:47.777 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:06:47.777 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:06:47.780 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:06:47.780 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:06:50.592 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@34591506
+[INFO ] 2024-02-21 12:06:50.592 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@34591506
+[INFO ] 2024-02-21 12:06:50.592 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 12:06:50.592 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 12:10:22.402 [TestNG-PoolService-0] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:10:22.402 [TestNG-PoolService-1] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:10:22.405 [TestNG-PoolService-1] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:10:22.405 [TestNG-PoolService-0] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:10:26.417 [TestNG-PoolService-1] LogImplementation - getDriverName = java.lang.ThreadLocal@4b6f28eb
+[INFO ] 2024-02-21 12:10:26.417 [TestNG-PoolService-0] LogImplementation - getDriverName = java.lang.ThreadLocal@4b6f28eb
+[INFO ] 2024-02-21 12:10:26.417 [TestNG-PoolService-1] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 12:10:26.417 [TestNG-PoolService-0] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 12:59:54.181 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 12:59:54.183 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 12:59:57.671 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@17222c11
+[INFO ] 2024-02-21 12:59:57.672 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 13:00:15.508 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 13:00:15.508 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 13:00:17.488 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@17222c11
+[INFO ] 2024-02-21 13:00:17.488 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:17:53.222 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:17:53.226 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:17:57.242 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@64021427
+[INFO ] 2024-02-21 15:17:57.242 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:18:02.508 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:18:02.508 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:18:03.828 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@64021427
+[INFO ] 2024-02-21 15:18:03.828 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:19:11.301 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:19:11.301 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:19:14.141 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@64021427
+[INFO ] 2024-02-21 15:19:14.141 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:19:19.466 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:19:19.466 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:19:20.653 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@64021427
+[INFO ] 2024-02-21 15:19:20.653 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:21:14.888 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:21:14.888 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:21:17.960 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@78c262ba
+[INFO ] 2024-02-21 15:21:17.960 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:21:23.277 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:21:23.277 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:21:24.423 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@78c262ba
+[INFO ] 2024-02-21 15:21:24.423 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:21:32.728 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:21:32.728 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:21:34.578 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@78c262ba
+[INFO ] 2024-02-21 15:21:34.578 [main] LogImplementation - Application Url =http://localhost:3000/
+[INFO ] 2024-02-21 15:21:39.746 [main] LogImplementation - spark.html file not found. Child folders will not be moved.
+[INFO ] 2024-02-21 15:21:39.746 [main] LogImplementation - browserType = CHROME
+[INFO ] 2024-02-21 15:21:40.857 [main] LogImplementation - getDriverName = java.lang.ThreadLocal@78c262ba
+[INFO ] 2024-02-21 15:21:40.857 [main] LogImplementation - Application Url =http://localhost:3000/
